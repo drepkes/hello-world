@@ -1,2 +1,3 @@
 # hello-world
-first rep on github
+this is my first rep on github. Oh and:
+I felt like such an idiot setting up the terminal...
